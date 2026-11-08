@@ -18,6 +18,7 @@ AIサービスの安全性調査と、日本語教育×ITの仕組み作りを�
 - note: [norito_hiraoka](https://note.com/norito_hiraoka)（AIサービスの安全性調査「中華AIウォッチ」「生成AI安全性調査」など）
 - X: [@onokoro48](https://x.com/onokoro48)
 - Qiita: [n_hiraoka](https://qiita.com/n_hiraoka)
+- Zenn: [n_hiraoka](https://zenn.dev/n_hiraoka)（AIサービス安全性調査のレポート、技術記事）
 
 ---
 
