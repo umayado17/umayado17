@@ -1,16 +1,24 @@
-## Hi there 👋
+# 平岡憲人（umayado17）／清風AI研究所長
 
-<!--
-**umayado17/umayado17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AIサービスの安全性調査と、日本語教育×ITの仕組み作りをしています。学校法人清風明育社 理事長／清風情報工科学院 校長。
 
-Here are some ideas to get you started:
+関心の中心は「そのAIサービスは、どこの国の、誰の技術で動いているのか」（**産地チェック**）と、AIに仕事のナレッジを引き継げる形に組み上げることです。調査の方法と道具は、使えるものから公開しています。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 公開しているもの
+
+- [knowledge-repo-builder](https://github.com/umayado17/knowledge-repo-builder) — 仕事のナレッジを GitHub リポジトリと Google ドライブの組で蓄積する形に組み上げる、AI 用スキル
+- [synology-search-agent](https://github.com/umayado17/synology-search-agent) — AIエージェントが Synology NAS の Universal Search 索引を SSH 越しに検索できる MCP サーバー／CLI
+- [google-form-skill](https://github.com/umayado17/google-form-skill) — Googleフォームを AI と対話しながら作る・直す・書き出すスキル
+- [simple-system-builder](https://github.com/umayado17/simple-system-builder) — ChatGPT の Web UI だけで完結するシステム構築のスキル（英語）
+- [ai-safety-directory](https://github.com/umayado17/ai-safety-directory) — AIサービスの安全性に関するディレクトリサイト（[公開サイト](https://ai-safety-directory.vercel.app)）
+- [zenn-content](https://github.com/umayado17/zenn-content) — Zenn・Qiita に投稿した記事の原稿置き場（AIサービス安全調査など）
+
+## 書いている場所
+
+- note: [norito_hiraoka](https://note.com/norito_hiraoka)（AIサービスの安全性調査「中華AIウォッチ」「生成AI安全性調査」など）
+- X: [@onokoro48](https://x.com/onokoro48)
+- Qiita: [n_hiraoka](https://qiita.com/n_hiraoka)
+
+---
+
+School corporation president and college principal in Osaka, Japan. I research the geopolitical safety of AI services and build tools and skills for AI-assisted work. Public repositories are MIT licensed unless stated otherwise.
