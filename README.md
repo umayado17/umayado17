@@ -10,6 +10,8 @@ AIサービスの安全性調査と、日本語教育×ITの仕組み作りを�
 - [synology-search-agent](https://github.com/umayado17/synology-search-agent) — AIエージェントが Synology NAS の Universal Search 索引を SSH 越しに検索できる MCP サーバー／CLI
 - [google-form-skill](https://github.com/umayado17/google-form-skill) — Googleフォームを AI と対話しながら作る・直す・書き出すスキル
 - [simple-system-builder](https://github.com/umayado17/simple-system-builder) — ChatGPT の Web UI だけで完結するシステム構築のスキル（英語）
+- [astra-trial](https://github.com/umayado17/astra-trial) — 報道記事を JLPT 全10段階に書き分けた比較ビューアと、JLPTレベル変換スキル（[公開ページ](https://umayado17.github.io/astra-trial/)）
+- [clip2shortcut](https://github.com/umayado17/clip2shortcut) — AIチャット（Claude/ChatGPT）の共有URLをワンクリックでショートカットファイル化するツール（Win/Mac対応）
 
 ## 書いている場所
 
