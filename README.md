@@ -10,8 +10,6 @@ AIサービスの安全性調査と、日本語教育×ITの仕組み作りを�
 - [synology-search-agent](https://github.com/umayado17/synology-search-agent) — AIエージェントが Synology NAS の Universal Search 索引を SSH 越しに検索できる MCP サーバー／CLI
 - [google-form-skill](https://github.com/umayado17/google-form-skill) — Googleフォームを AI と対話しながら作る・直す・書き出すスキル
 - [simple-system-builder](https://github.com/umayado17/simple-system-builder) — ChatGPT の Web UI だけで完結するシステム構築のスキル（英語）
-- [ai-safety-directory](https://github.com/umayado17/ai-safety-directory) — AIサービスの安全性に関するディレクトリサイト（[公開サイト](https://ai-safety-directory.vercel.app)）
-- [zenn-content](https://github.com/umayado17/zenn-content) — Zenn・Qiita に投稿した記事の原稿置き場（AIサービス安全調査など）
 
 ## 書いている場所
 
